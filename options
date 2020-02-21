@@ -1,0 +1,28 @@
+--class-path
+'/home/travis/.m2/repository/org/openjfx/javafx-base/14-ea+8/javafx-base-14-ea+8.jar:/home/travis/.m2/repository/org/openjfx/javafx-controls/14-ea+8/javafx-controls-14-ea+8.jar:/home/travis/.m2/repository/org/openjfx/javafx-graphics/14-ea+8/javafx-graphics-14-ea+8.jar:/home/travis/.m2/repository/org/openjfx/javafx-media/14-ea+8/javafx-media-14-ea+8.jar:/home/travis/.m2/repository/org/dyn4j/dyn4j/3.3.0/dyn4j-3.3.0.jar:/home/travis/.m2/repository/com/guicedee/services/jakarta.validation-api/62/jakarta.validation-api-62.jar:/home/travis/.m2/repository/com/guicedee/services/jakarta.annotation-api/62/jakarta.annotation-api-62.jar'
+--module-path
+'/home/travis/.m2/repository/com/guicedee/services/jakarta.activation/62/jakarta.activation-62.jar:/home/travis/.m2/repository/com/guicedee/services/javax.inject/62/javax.inject-62.jar:/home/travis/.m2/repository/com/guicedee/services/commons-lang3/62/commons-lang3-62.jar:/home/travis/.m2/repository/org/openjfx/javafx-base/14-ea+8/javafx-base-14-ea+8-linux.jar:/home/travis/.m2/repository/com/guicedee/services/aopalliance-core/62/aopalliance-core-62.jar:/home/travis/.m2/repository/org/openjfx/javafx-controls/14-ea+8/javafx-controls-14-ea+8-linux.jar:/home/travis/.m2/repository/org/openjfx/javafx-media/14-ea+8/javafx-media-14-ea+8-linux.jar:/home/travis/.m2/repository/com/guicedee/services/guava/62/guava-62.jar:/home/travis/.m2/repository/com/guicedee/services/guice/62/guice-62.jar:/home/travis/.m2/repository/org/openjfx/javafx-graphics/14-ea+8/javafx-graphics-14-ea+8-linux.jar'
+--patch-module
+nl.meron.yaeger='/home/travis/build/meronbrouwer/yaeger/src/main/java'
+-encoding
+'UTF-8'
+-protected
+--module-source-path
+'/home/travis/build/meronbrouwer/yaeger/target/site/apidocs/src'
+-author
+-bottom
+'Copyright &#169; 2020. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/travis/build/meronbrouwer/yaeger/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'yaeger 2019.2020-beta1 API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/12/docs/api' '/home/travis/build/meronbrouwer/yaeger/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'yaeger 2019.2020-beta1 API'
